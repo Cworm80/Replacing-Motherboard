@@ -3,16 +3,16 @@
 
  
 
-Today I will show you how to replace a motherboard in a Dell XPS  9550 ‘15’inch. This laptop I found online on eBay for 120$, the description reads that it has a bad motherboard, and will not boot up, and has no OS and has no RAM.
+Today I will show you how to replace a motherboard in a <b>Dell XPS  9550 ‘15’inch. This laptop I found online on eBay for 120$, the description reads that it has a bad motherboard, and will not boot up, and has no OS and has no RAM.</b>
 
 <img>![Picture1](https://github.com/Cworm80/Replacing-Motherboard/assets/161678144/9a8807f0-9f38-4d5c-97c4-da80a6a8cdf3)<img>
 
-What you would need for this Project<br>
-•	An electronic tool Kit, (they are not that expensive)<br>
+What you would need for this Project 
+•	An electronic tool Kit, (they are not that expensive)<br><b>
 •	Another Motherboard that matches the model of the laptop<br>
 •	RAM either 8Gb,16GB,32GB <br>
 •	Storage M.2 or HDD this model can have both or one.<br>
-•	A new Battery either her a 52Wh or 82Wh, you only have room for a M.2 slot based on the size of the battery.<br>
+•	A new Battery either her a 52Wh or 82Wh, you only have room for a M.2 slot based on the size of the battery.<br></b>
 
 So now that we have everything we need, we would need to begin to take the screws off the bottom of the laptop
  
@@ -34,7 +34,7 @@ Parts of the Computer
  
 
 Now we Remove the fans first to get to the motherboard out and we remove the heat pipes connect to the CPU and the GPU.
-1.	Wi-Fi card
+1.	Wi-Fi card<b>
 2.	Two DDR4 Ram slots
 3.	HDD slot
 4.	SSD slot
@@ -43,12 +43,12 @@ Now we Remove the fans first to get to the motherboard out and we remove the hea
 7.	Screen Connector
 8.	Heat pipes <br>
 <img>![Picture5](https://github.com/Cworm80/Replacing-Motherboard/assets/161678144/3061c414-ad8a-4d00-a49c-46c0902e21ef)<img>
-9.  GPU GTX 9550
-10. CPU core i5 6300HQ with 4 cores
+10.  GPU GTX 9550
+11. CPU core i5 6300HQ with 4 cores</b>
 
 You also want to change the thermal paste and just clean it with 70% isopropyl alcohol, to make there is no residue left then you can go to BestBuy or any other retail store.
 
-You can look can look up this information about this mother board Intel® Core™ i5-6300HQ Processor 
+You can look can look up this information about this mother board <b>Intel® Core™ i5-6300HQ Processor </b>
 Now we can install the new motherboard on our laptop. I bought it on eBay for like 70$ without the GPU.
 
 If want to buy one with the GPU it is going to be a little bit more expensive, depending on what type of task you are going to be using this computer for, like gaming or video editing or if you are running a program that is using a lot or resource.
@@ -64,5 +64,4 @@ Now that we install the board into the laptop now, we put everything back togeth
 <img>![Picture9](https://github.com/Cworm80/Replacing-Motherboard/assets/161678144/c77b7e9d-598a-41a5-a44b-68d72ad95bbd)
 <img>
  
-This is what it should look like once everything is back in place,
-This was a tutorial on how to replace a motherboard in a laptop.
+This is what it should look like once everything is back in place,this is how you replace you laptops Motherbord.
